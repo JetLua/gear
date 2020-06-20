@@ -1,0 +1,19 @@
+{
+  "name": "@iro/gear",
+  "version": "1.0.2",
+  "description": "A body parser for koa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "Github",
+    "url": "git@github.com:JetLua/gear.git"
+  },
+  "author": "JetLu",
+  "license": "MIT",
+  "keywords": [
+    "koa",
+    "bodyparser"
+  ]
+}
